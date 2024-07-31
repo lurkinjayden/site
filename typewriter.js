@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var quoteID = document.getElementById('quote');
-    var quote = `"extortion? LOL"`;
+    var quote = `"dum spiro, spero"`;
     var cursor = document.createElement('span');
     cursor.className = 'cursor';
     cursor.style.borderColor = 'white';
